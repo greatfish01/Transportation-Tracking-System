@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="lib" path="D:\JAVA\Final\B11009016_Final\lib\json.jar"/>
+    <!-- Add any other entries if needed -->
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="output" path="bin"/>
+    <classpathentry kind="lib" path="D:\JAVA\Final\B11009016_Final\lib\mysql-connector-j-8.2.0.jar"/>
+    <classpathentry kind="lib" path="D:\JAVA\Final\B11009016_Final\lib\jxmapviewer2-2.5.jar"/>
+    <classpathentry kind="lib" path="D:\JAVA\Final\B11009016_Final\lib\javafx-swt.jar"/>
+</classpath>
